@@ -8,7 +8,8 @@ EDIT 20/08/2019: The notebook is now complete! Hurray! Peruse it at your pleasur
 One can download the notebook/map and see the results for themselves.-
 Uploading all relevant datasets for the same.~~
 
-The whole notebook can be viewed here(Again, make sure you're using Google Chrome, otherwise the map won't show up!):
+The whole notebook can be viewed here(**Again, make sure you're using Google Chrome, otherwise the map won't show up!**):
+
 https://nbviewer.jupyter.org/github/Keepingshtum/Coursera_Capstone/blob/master/Coursera%20Capstone.ipynb
 
 
